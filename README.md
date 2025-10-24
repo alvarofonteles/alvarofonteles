@@ -14,8 +14,6 @@ Fortaleza, Brasil
 [![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?logo=oracle&logoColor=white)](https://apex.oracle.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-007EC6?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Oracle Forms](https://img.shields.io/badge/Oracle_Forms-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/application-development/technologies/forms.html)
 [![Oracle Reports](https://img.shields.io/badge/Oracle_Reports-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/)
 
@@ -39,6 +37,8 @@ Fortaleza, Brasil
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)](https://databricks.com/)
 
 #### **🛠 Data Engineering Tools**
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-007EC6?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)](https://www.getdbt.com/)
 [![Orchestration](https://img.shields.io/badge/Data_Orchestration-017CEE)](https://airflow.apache.org/)
