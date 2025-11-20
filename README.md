@@ -1,6 +1,6 @@
 # Álvaro 👨‍💻🎲🇧🇷
 
-**Analista Sênior de Software | Oracle PL/SQL | APEX | Java | Sistemas Corporativos**
+**Analista Sênior de Software | Oracle PL/SQL | APEX | Java**
 
 Fortaleza, Brasil  
 +10 Anos em Sistemas Corporativos • Transição para Engenharia de Dados Moderna
@@ -45,9 +45,13 @@ Fortaleza, Brasil
 [![Data Quality](https://img.shields.io/badge/Data_Quality-008E97)](https://www.getdbt.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
+## 💖 GitHub Sponsors
+
+**_Apoie minha jornada de Oracle Sênior para Data Engineering Moderno!_**
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%40alvarofonteles-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/alvarofonteles)
+
 ### 📞 Contato & Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvarofonteles)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?logo=github&logoColor=white)](https://alvarofonteles.github.io)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://alvarofonteles.medium.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvarofonteles) [![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-blue?logo=github)](https://alvarofonteles.github.io/) [![Medium](https://img.shields.io/badge/Medium-Profile-000000?logo=medium&logoColor=white)](https://alvarofonteles.medium.com)  
 
 **_Transformando experiência Oracle em soluções modernas de dados_** 🚀
